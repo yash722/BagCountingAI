@@ -26,7 +26,7 @@ git clone https://github.com/yash722/BagCountingAI.git
 ### 2. Install Requirements
 
 ```bash
-pip install -r requirements
+pip install -r requirements.txt
 ```
 
 ### 3. Run main.py
