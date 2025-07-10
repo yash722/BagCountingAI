@@ -1,0 +1,7 @@
+ultralytics>=8.0.0
+opencv-python
+numpy
+pandas
+deep_sort_realtime
+torch>=1.13.0
+torchvision
